@@ -3,4 +3,5 @@ trigger HelloWorldTrigger on Account (before insert) {
     //added comment 1"
     //added comment 2"
     //added comment3"
+    //added comment 4"
 }
